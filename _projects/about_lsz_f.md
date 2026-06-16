@@ -38,6 +38,7 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 ##### Area chair
 - MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
 - NeurIPS 2024 Datasets and Benchmarks track
+- ICML 2026
 
 ##### Track chair
 - The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
