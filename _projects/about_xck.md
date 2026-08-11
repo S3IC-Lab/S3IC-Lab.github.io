@@ -8,10 +8,14 @@ category: Master
 ---
 
 #### Research Interests
+
 ---
-  - Federated Learning
-  - LLM watermark
+
+- Federated Learning
+- LLM watermark
 
 #### Education
+
 ---
+
 - 2024.09 - now, Southeast University, Jiangsu, China, M.S.

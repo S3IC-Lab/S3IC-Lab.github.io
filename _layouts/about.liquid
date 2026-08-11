@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
-
 <div class="post">
-   <header class="post-header">
-    {% comment %} <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1> {% endcomment %}
+  <header class="post-header">
+    {% comment %}
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+    {% endcomment %}
     <p class="desc" style="font-size: 30px; animation: float 5s infinite; margin-top: 30px;">{{ page.subtitle }}</p>
-  </header> 
+  </header>
 
   <article>
     {% if page.profile %}
@@ -38,7 +39,7 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
-    <!--add-->
+    <!-- add -->
     <div class="clearfix" style="margin-bottom: 40px;">{{ content }}</div>
 
     <!-- News -->

@@ -7,6 +7,7 @@ nav_order: 7
 display_categories: [Intern]
 horizontal: false
 ---
+
 <!-- pages/projects.md -->
 
 <div class="projects">

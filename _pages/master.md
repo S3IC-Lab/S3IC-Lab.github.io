@@ -7,6 +7,7 @@ nav_order: 7
 display_categories: [Master]
 horizontal: false
 ---
+
 <!-- pages/projects.md -->
 
 <div class="projects">

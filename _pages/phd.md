@@ -4,9 +4,10 @@ permalink: /phd/
 title: Ph.D Students
 nav: false
 nav_order: 7
-display_categories: ['PhD at SEU','PhD at HKUST']
+display_categories: ["PhD at SEU", "PhD at HKUST"]
 horizontal: false
 ---
+
 <!-- pages/projects.md -->
 
 <div class="projects">

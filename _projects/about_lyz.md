@@ -8,11 +8,14 @@ category: Undergraduate
 ---
 
 #### Research Interests
+
 ---
+
 - LLM Security
 - federated learning
 
 #### Education
----
-- 2022.09 - now, Southeast University, Jiangsu, China, B.S.
 
+---
+
+- 2022.09 - now, Southeast University, Jiangsu, China, B.S.

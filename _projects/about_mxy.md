@@ -8,10 +8,14 @@ category: Master
 ---
 
 #### Research Interests
+
 ---
-  - LLM security
-  - Attacks and defenses for in-context learning
+
+- LLM security
+- Attacks and defenses for in-context learning
 
 #### Education
+
 ---
-  - 2024.09 - now, Southeast University, Jiangsu, China, M.S.
+
+- 2024.09 - now, Southeast University, Jiangsu, China, M.S.

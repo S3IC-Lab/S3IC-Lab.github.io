@@ -8,6 +8,7 @@ pagination:
   enabled: true
   per_page: 10
 ---
+
 <!-- rebuild trigger -->
 
 <!-- _pages/publications.md -->
