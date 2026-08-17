@@ -23,9 +23,8 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 
 ### Research Interests
 
-- Federated learning security and privacy
-- Security, privacy, and safety of large language and multi-modal models
-- Secure multi-party computation
+- Security, privacy, and safety of large language models and agents
+- Secure multi-party computation on ML scenarios
 - Blockchain security and scalability
 
 ---
@@ -42,14 +41,19 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 
 ##### Area chair
 
-- MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
-- NeurIPS 2024 Datasets and Benchmarks track
+- ICLR
 - ICML 2026
+- NeurIPS 2024 Datasets and Benchmarks track
+- MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
 
 ##### Track chair
 
 - The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
 
+##### Senior program committee
+
+- AAAI Conference on Artificial Intelligence
+  
 ##### TPC member
 
 - ACM AsiaCCS 2025 International Workshop on Secure and Efficient Federated Learning **(FL-AsiaCCS 25)**
