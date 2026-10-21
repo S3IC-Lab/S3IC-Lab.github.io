@@ -26,6 +26,8 @@ personal web: [https://ybdai7.github.io/](https://ybdai7.github.io/)
 
 #### Publications
 
+---
+
 **indicates equal contribution**
 
 [1].[**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**](https://arxiv.org/abs/2405.20862)

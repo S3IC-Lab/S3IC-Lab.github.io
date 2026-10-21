@@ -21,4 +21,4 @@ cohort: 2025.09
 #### Publications
 
 ---
-[1] MASH: Evading Black-Box AI-Generated Text Detectors via Style Humanization (https://aclanthology.org/2026.findings-acl.1487/) / Yongtong Gu, Songze Li, Xia Hu / Findings of ACL, 2026
+1.[**MASH: Evading Black-Box AI-Generated Text Detectors via Style Humanization**](https://aclanthology.org/2026.findings-acl.1487/) / Yongtong Gu, Songze Li, Xia Hu / Findings of ACL, 2026

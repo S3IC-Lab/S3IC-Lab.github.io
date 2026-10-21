@@ -25,7 +25,7 @@ cohort: 2025.09
 #### Publications
 
 ---
-[1] MA-DG: Learning Features of Sequences in Different Dimensions for Min-Entropy Evaluation via 2D-CNN and Multi-Head Self-Attention (https://doi.org/10.1109/TIFS.2024.3447242) / Yilong Huang, Fan Fan, Chaofeng Huang, Haomiao Yang, Min Gu / IEEE TIFS, vol. 19, pp. 7879-7894, 2024
+1.[**MA-DG: Learning Features of Sequences in Different Dimensions for Min-Entropy Evaluation via 2D-CNN and Multi-Head Self-Attention**](https://doi.org/10.1109/TIFS.2024.3447242) / Yilong Huang, Fan Fan, Chaofeng Huang, Haomiao Yang, Min Gu / IEEE TIFS, vol. 19, pp. 7879-7894, 2024
 
 #### Honors and Awards
 

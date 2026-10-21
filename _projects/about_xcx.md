@@ -21,4 +21,4 @@ cohort: 2025.09
 #### Publications
 
 ---
-[1] How does Watermarking Affect Visual Language Models in Document Understanding? (https://arxiv.org/pdf/2504.01048) / Chunxue Xu, Yiwei Wang, Bryan Hooi, Yujun Cai, Songze Li / COLM, 2025
+1.[**How does Watermarking Affect Visual Language Models in Document Understanding?**](https://arxiv.org/pdf/2504.01048) / Chunxue Xu, Yiwei Wang, Bryan Hooi, Yujun Cai, Songze Li / COLM, 2025
