@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- pages/master.md: grouped by cohort (earlier first), each cohort labeled on divider -->
 
-<div class="projects">
+<div class="projects master-projects">
   {% assign members = site.projects | where: "category", "Master" | sort: "cohort" %}
   {% assign prev_cohort = "" %}
   {% for project in members %}
