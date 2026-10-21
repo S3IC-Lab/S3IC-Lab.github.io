@@ -2,7 +2,7 @@
 layout: page
 title: Jinjin Chen
 img: assets/img/cjj.jpg
-importance: 1
+importance: 22
 category: Master
 cohort: 2025.09
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Chuokun Xu
 img: assets/img/xck.png
-importance: 1
+importance: 3
 category: Master
 cohort: 2024.09
 ---

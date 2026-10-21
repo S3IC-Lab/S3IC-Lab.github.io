@@ -2,7 +2,7 @@
 layout: page
 title: Ruishi He
 img: assets/img/hrs.jpg
-importance: 1
+importance: 2
 category: Master
 cohort: 2024.09
 ---

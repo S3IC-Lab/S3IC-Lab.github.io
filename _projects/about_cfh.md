@@ -2,7 +2,7 @@
 layout: page
 title: Fengheng Chu
 img: assets/img/cfh.jpg
-importance: 2
+importance: 1
 category: Master
 cohort: 2024.09
 ---

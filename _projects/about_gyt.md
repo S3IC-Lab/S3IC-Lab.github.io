@@ -2,7 +2,7 @@
 layout: page
 title: Yongtong Gu
 img: assets/img/gyt.jpg
-importance: 1
+importance: 24
 category: Master
 cohort: 2025.09
 ---

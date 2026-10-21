@@ -2,7 +2,7 @@
 layout: page
 title: Mingxuan Zhang
 img: assets/img/zmx.jpg
-importance: 1
+importance: 4
 category: Master
 cohort: 2024.09
 ---

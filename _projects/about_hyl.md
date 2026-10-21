@@ -3,7 +3,7 @@ layout: page
 title: Elon Huang
 description: Since 2025 fall
 img: assets/img/hyl.jpg
-importance: 1
+importance: 3
 category: "PhD at SEU"
 cohort: 2025.09
 ---

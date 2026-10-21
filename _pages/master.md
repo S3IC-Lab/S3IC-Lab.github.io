@@ -11,7 +11,7 @@ horizontal: false
 <!-- pages/master.md: grouped by cohort (earlier first), PhD-page style category heading with year only -->
 
 <div class="projects master-projects">
-  {% assign members = site.projects | where: "category", "Master" | sort: "cohort" %}
+  {% assign members = site.projects | where: "category", "Master" | sort: "importance" %}
   {% assign prev_cohort = "" %}
   {% for project in members %}
     {% if project.cohort != prev_cohort %}

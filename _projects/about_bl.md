@@ -2,7 +2,7 @@
 layout: page
 title: Lei Ba
 img: assets/img/bl.jpg
-importance: 1
+importance: 20
 category: Master
 cohort: 2025.09
 ---

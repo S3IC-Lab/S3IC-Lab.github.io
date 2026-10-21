@@ -2,7 +2,7 @@
 layout: page
 title: Chunxue Xu
 img: assets/img/xcx.jpg
-importance: 1
+importance: 26
 category: Master
 cohort: 2025.09
 ---

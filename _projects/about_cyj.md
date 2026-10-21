@@ -3,7 +3,7 @@ layout: page
 title: Yijia Chang
 description: Since 2022 fall
 img: assets/img/cyj.jpg
-importance: 1
+importance: 3
 category: "PhD at HKUST"
 cohort: 2022.09
 ---
