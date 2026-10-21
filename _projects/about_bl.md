@@ -1,0 +1,19 @@
+---
+layout: page
+title: Lei Ba
+description: Since 2025.09
+img: assets/img/bl.jpg
+importance: 1
+category: Master
+---
+
+#### Research Interests
+
+---
+- Agent Security
+
+#### Education
+
+---
+- 2025.09-now, Southeast University, Nanjing, China, M.S.
+- 2021.09-2025.06, Minzu University of China, Beijing, China, B.S.

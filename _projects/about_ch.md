@@ -1,0 +1,19 @@
+---
+layout: page
+title: Hao Chen
+description: Since 2025.09
+img: assets/img/ch.jpg
+importance: 1
+category: Master
+---
+
+#### Research Interests
+
+---
+- LLM Security
+
+#### Education
+
+---
+- 2025.09-now, Southeast University, Nanjing, China, M.S.
+- 2021.09-2025.06,China jiliang University, Hangzhou, China, B.S.
