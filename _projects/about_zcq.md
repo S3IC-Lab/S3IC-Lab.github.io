@@ -34,4 +34,4 @@ How to reach me: chenqingzhu@seu.edu.cn
 
 [2].Li S, Zhu C. [**Towards Client Driven Federated Learning**[J]](https://arxiv.org/pdf/2405.15407). arXiv preprint arXiv:2405.15407, 2024.
 
-[3].Xiong, Z., Fu, S., Zhu, Y., Zhu, C., Ma, X., & Fan, M. (2024, May). **“It is hard to remove from my eye”: Design Makeup Residue Visualization System for Chinese Traditional Opera (Xiqu) Performers**. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-16).
+[3].Xiong, Z., Fu, S., Zhu, Y., Zhu, C., Ma, X., & Fan, M. (2024, May). [**“It is hard to remove from my eye”: Design Makeup Residue Visualization System for Chinese Traditional Opera (Xiqu) Performers**](https://doi.org/10.1145/3613904.3642261). In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-16).

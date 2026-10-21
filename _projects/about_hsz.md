@@ -27,7 +27,7 @@ cohort: 2021.09
 
 ---
 
-[1].**CNN models for readability of Chinese texts.**
+[1].[**CNN models for readability of Chinese texts**](https://doi.org/10.3934/mfc.2022021)
 Han Feng, Sizai Hou, Le-Yin Wei, Ding-Xuan Zhou
 
 [2].[**Secure federated clustering**](https://arxiv.org/abs/2205.15564)

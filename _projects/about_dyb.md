@@ -38,6 +38,6 @@ To be appeared in Usenix Security 2024.
 Yanbo Dai, Songze Li
 ICML’23
 
-[3].**Deep Domain Adaptation for Predicting Intra-AbdominalPressure with Multichannel Attention Fusion Radar Chip**
+[3].[**Deep Domain Adaptation for Predicting Intra-Abdominal Pressure with Multichannel Attention Fusion Radar Chip**](https://doi.org/10.1002/aisy.202100209)
 Hao Tang*, Yanbo Dai*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang
 Advanced Intelligent Systems.
