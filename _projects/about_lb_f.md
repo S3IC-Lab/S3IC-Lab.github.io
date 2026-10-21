@@ -26,7 +26,7 @@ My research interests include trustworthy machine learning and AI security, with
 ### Journal Reviewer
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
-- IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE TIFS
 
 ### Conference Reviewer
 
@@ -43,7 +43,7 @@ See the complete publication list on the [DBLP page](https://dblp.org/pid/181/29
 
 1. **Li Bai**, Xinwei Zhang, Sen Zhang, Qingqing Ye, and Haibo Hu.  
    "**ProVFL: Property inference attacks against vertical federated learning**."  
-   _IEEE Transactions on Information Forensics and Security (TIFS), 2025._
+   _IEEE TIFS, 2025._
 
 2. **Li Bai**, Haibo Hu, Qingqing Ye, Jianliang Xu, Jin Li, Chengfang Fang, and Jie Shi.  
    "**RMR: A relative membership risk measure for machine learning models**."  
@@ -51,7 +51,7 @@ See the complete publication list on the [DBLP page](https://dblp.org/pid/181/29
 
 3. Zhu Jiang, Haibo Hu, Qingqing Ye, and **Li Bai**.  
    "**Auditing MLaaS Inference Service Quality without Ground Truth via Mutual Information**."  
-   _IEEE Transactions on Information Forensics and Security (TIFS), 2025._
+   _IEEE TIFS, 2025._
 
 4. **Li Bai**, Haibo Hu, Qingqing Ye, Haoyang Li, Leixia Wang, and Jianliang Xu.  
    "**Membership inference attacks and defenses in federated learning: A survey**."  
