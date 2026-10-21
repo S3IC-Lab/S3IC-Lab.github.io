@@ -8,7 +8,7 @@ display_categories: [Master]
 horizontal: false
 ---
 
-<!-- pages/master.md: grouped by cohort (earlier first), each cohort labeled on divider -->
+<!-- pages/master.md: grouped by cohort (earlier first), PhD-page style category heading with year only -->
 
 <div class="projects master-projects">
   {% assign members = site.projects | where: "category", "Master" | sort: "cohort" %}
@@ -18,11 +18,10 @@ horizontal: false
       {% unless forloop.first %}
     </div>
       {% endunless %}
-    <div class="d-flex align-items-center my-4">
-      <div class="border-top flex-grow-1"></div>
-      <span class="mx-3 h5 mb-0">{{ project.cohort }}</span>
-      <div class="border-top flex-grow-1"></div>
-    </div>
+      {% assign cohort_year = project.cohort | split: "." | first %}
+    <a id="y{{ cohort_year }}" href=".#y{{ cohort_year }}">
+      <h2 class="category">{{ cohort_year }}</h2>
+    </a>
     <div class="row row-cols-1 row-cols-md-4">
       {% assign prev_cohort = project.cohort %}
     {% endif %}
