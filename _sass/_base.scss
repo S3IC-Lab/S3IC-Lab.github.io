@@ -664,6 +664,23 @@ footer.sticky-bottom {
   }
 }
 
+
+.master-projects, .phd-projects {
+  .cohort-toggle {
+    text-decoration: none;
+    .toggle-arrow {
+      display: inline-block;
+      margin-left: 0.4rem;
+      font-size: 0.75em;
+      transition: transform 0.2s ease;
+      color: var(--global-theme-color);
+    }
+    &[aria-expanded="true"] .toggle-arrow {
+      transform: rotate(90deg);
+    }
+  }
+}
+
 // Publications
 
 .publications {
