@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lei Ba
-description: Since 2025.09
 img: assets/img/bl.jpg
 importance: 1
 category: Master

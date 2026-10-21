@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Xu Zheng
-description: Since 2025.09
 img: assets/img/zx.jpg
 importance: 1
 category: Master

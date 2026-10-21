@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Yuhong Wang
-description: Since 2025.09
 img: assets/img/wyh.jpg
 importance: 1
 category: Master

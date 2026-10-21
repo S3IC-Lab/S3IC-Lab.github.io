@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jialing Gan
-description: Since 2025.09
 img: assets/img/gjl.jpg
 importance: 1
 category: Master

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Puwei Lian
-description: Since 2025.09
 img: assets/img/lpw.jpg
 importance: 1
 category: Master

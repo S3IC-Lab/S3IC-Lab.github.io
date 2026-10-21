@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Yifeng Du
-description: Since 2025.09
 img: assets/img/dyf.jpg
 importance: 1
 category: Master

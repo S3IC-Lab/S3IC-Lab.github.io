@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hao Chen
-description: Since 2025.09
 img: assets/img/ch.jpg
 importance: 1
 category: Master

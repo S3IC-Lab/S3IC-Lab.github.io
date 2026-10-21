@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Chuokun Xu
-description: Since 2024 fall
 img: assets/img/xck.png
 importance: 1
 category: Master

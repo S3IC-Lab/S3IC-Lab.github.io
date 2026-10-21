@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jinjin Chen
-description: Since 2025.09
 img: assets/img/cjj.jpg
 importance: 1
 category: Master

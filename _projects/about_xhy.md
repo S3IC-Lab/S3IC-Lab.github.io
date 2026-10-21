@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hanyi Xu
-description: Since 2025.09
 img: assets/img/xhy.jpg
 importance: 1
 category: Master

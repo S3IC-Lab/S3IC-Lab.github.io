@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jiameng Cheng
-description: Since 2025.09
 img: assets/img/cjm.jpg
 importance: 1
 category: Master

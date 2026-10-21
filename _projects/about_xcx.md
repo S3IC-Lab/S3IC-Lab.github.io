@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Chunxue Xu
-description: Since 2025.09
 img: assets/img/xcx.jpg
 importance: 1
 category: Master

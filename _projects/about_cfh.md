@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Fengheng Chu
-description: Since 2024 fall
 img: assets/img/cfh.jpg
 importance: 2
 category: Master

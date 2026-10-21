@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jinhong Chen
-description: Since 2025.09
 img: assets/img/cjh.jpg
 importance: 1
 category: Master
