@@ -35,7 +35,7 @@ horizontal: false
     {% if pos == 4 %}
     </div>
     <div class="text-center my-3">
-      <a class="cohort-toggle" data-bs-toggle="collapse" href="#more-{{ cohort_year }}" role="button" aria-expanded="false"><span class="toggle-arrow">&#9656;</span> More</a>
+      <a class="cohort-toggle" data-toggle="collapse" href="#more-{{ cohort_year }}" role="button" aria-expanded="false"><span class="toggle-arrow">&#9656;</span> More</a>
     </div>
     <div class="collapse" id="more-{{ cohort_year }}">
     <div class="row row-cols-1 row-cols-md-4">
