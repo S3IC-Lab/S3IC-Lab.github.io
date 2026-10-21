@@ -5,6 +5,7 @@ description: Since 2021 fall
 img: assets/img/ydy.jpg
 importance: 2
 category: "PhD at HKUST"
+cohort: 2021.09
 ---
 
 #### Research Interests

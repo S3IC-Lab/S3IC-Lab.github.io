@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Xiaolei Zhang
-description: Since 2025.09
+description: Since 2025 fall
 img: assets/img/zxl.jpg
 importance: 1
 category: "PhD at SEU"
+cohort: 2025.09
 ---
 
 #### Research Interests

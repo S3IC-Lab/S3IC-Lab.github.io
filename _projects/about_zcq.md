@@ -5,6 +5,7 @@ description: Since 2024 fall
 img: assets/img/zcq.jpg
 importance: 1
 category: "PhD at SEU"
+cohort: 2024.09
 ---
 
 Personal blog: [https://chenqing-zhu.github.io](https://chenqing-zhu.github.io)

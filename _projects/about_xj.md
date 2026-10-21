@@ -5,6 +5,7 @@ description: Since 2022 fall
 img: assets/img/xj.jpg
 importance: 1
 category: "PhD at HKUST"
+cohort: 2022.09
 ---
 
 #### Research Interests
