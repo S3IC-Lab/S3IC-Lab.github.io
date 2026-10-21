@@ -5,6 +5,7 @@ description: Since 2024 fall
 img: assets/img/hrs.jpg
 importance: 1
 category: Master
+cohort: 2024.09
 ---
 
 #### Research Interests

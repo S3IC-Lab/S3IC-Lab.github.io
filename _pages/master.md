@@ -8,58 +8,22 @@ display_categories: [Master]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/master.md: grouped by cohort (earlier first), divider between cohorts -->
 
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{}}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
+  {% assign members = site.projects | where: "category", "Master" | sort: "cohort" %}
+  {% assign prev_cohort = "" %}
   <div class="row row-cols-1 row-cols-md-4">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
+  {% for project in members %}
+    {% unless forloop.first %}
+      {% if project.cohort != prev_cohort %}
+    </div>
+    <hr>
+    <div class="row row-cols-1 row-cols-md-4">
+      {% endif %}
+    {% endunless %}
+    {% assign prev_cohort = project.cohort %}
+    {% include projects.liquid %}
   {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-<!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-<div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-4">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>

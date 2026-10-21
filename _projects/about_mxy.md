@@ -5,6 +5,7 @@ description: Since 2024 fall
 img: assets/img/mxy.jpg
 importance: 2
 category: Master
+cohort: 2024.09
 ---
 
 #### Research Interests

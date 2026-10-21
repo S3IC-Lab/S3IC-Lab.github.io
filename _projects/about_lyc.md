@@ -5,6 +5,7 @@ description: Since 2025.09
 img: assets/img/lyc.jpg
 importance: 1
 category: Master
+cohort: 2025.09
 ---
 
 #### Research Interests
