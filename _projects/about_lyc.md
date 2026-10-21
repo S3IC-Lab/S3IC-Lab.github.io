@@ -2,7 +2,7 @@
 layout: page
 title: Licheng Yu
 img: assets/img/lyc.jpg
-importance: 25
+importance: 22
 category: Master
 cohort: 2025.09
 ---

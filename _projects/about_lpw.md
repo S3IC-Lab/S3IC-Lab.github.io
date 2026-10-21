@@ -2,7 +2,7 @@
 layout: page
 title: Puwei Lian
 img: assets/img/lpw.jpg
-importance: 13
+importance: 10
 category: Master
 cohort: 2025.09
 ---
@@ -22,5 +22,10 @@ cohort: 2025.09
 #### Publications
 
 ---
-1.[**Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective**](https://proceedings.mlr.press/v306/lian26a.html) / Puwei Lian, Yujun Cai, Songze Li, Bingkun Bao / ICML 2026
-2.[**Noise as a probe: Membership inference attacks on diffusion models leveraging initial noise**](https://arxiv.org/pdf/2601.21628) / Puwei Lian, Yujun Cai, Songze Li, Bingkun Bao / ACM MM 2026
+1.[**Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective**](https://proceedings.mlr.press/v306/lian26a.html)  
+Puwei Lian, Yujun Cai, Songze Li, Bingkun Bao  
+ICML 2026
+
+2.[**Noise as a probe: Membership inference attacks on diffusion models leveraging initial noise**](https://arxiv.org/pdf/2601.21628)  
+Puwei Lian, Yujun Cai, Songze Li, Bingkun Bao  
+ACM MM 2026

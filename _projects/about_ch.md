@@ -2,7 +2,7 @@
 layout: page
 title: Hao Chen
 img: assets/img/ch.jpg
-importance: 10
+importance: 14
 category: Master
 cohort: 2025.09
 ---

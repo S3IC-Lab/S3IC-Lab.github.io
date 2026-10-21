@@ -27,17 +27,16 @@ cohort: 2022.09
 #### Publications
 
 ---
-
-[1].[**Systematic topology design for large-scale networks: a unified framework**](https://ieeexplore.ieee.org/document/9155462)
-Yijia Chang, Xi Huang, Ziyu Shao, Yang Yang
+[1].[**Systematic topology design for large-scale networks: a unified framework**](https://ieeexplore.ieee.org/document/9155462)  
+Yijia Chang, Xi Huang, Ziyu Shao, Yang Yang  
 Published in IEEE Conference on Computer Communications (INFOCOM), Toronto, Canada, July 6-9 2020
 
-[2].[**An efficient distributed deep learning framework for fog-based IoT systems**](https://ieeexplore.ieee.org/document/9014056)
-Yijia Chang, Xi Huang, Longxiulin Deng, Ziyu Shao, Junshan Zhang
+[2].[**An efficient distributed deep learning framework for fog-based IoT systems**](https://ieeexplore.ieee.org/document/9014056)  
+Yijia Chang, Xi Huang, Longxiulin Deng, Ziyu Shao, Junshan Zhang  
 Published in IEEE Global Communications Conference (GLOBECOM),Waikoloa, HI, USA, 9-13 December 2019
 
-[3].[**EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system**](https://ieeexplore.ieee.org/document/8485826)
-Xiangyu Wang, Jianfeng Ma, Yinbin Miao, Ruikang Yang, Yijia Chang
+[3].[**EPSMD: An efficient privacy-preserving sensor data monitoring and online diagnosis system**](https://ieeexplore.ieee.org/document/8485826)  
+Xiangyu Wang, Jianfeng Ma, Yinbin Miao, Ruikang Yang, Yijia Chang  
 Published in IEEE Conference on Computer Communications (INFOCOM), Atlanta, GA, USA, May 1-4 2017
 
 #### Honors and Awards

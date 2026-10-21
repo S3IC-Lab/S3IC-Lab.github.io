@@ -2,7 +2,7 @@
 layout: page
 title: Jinhong Chen
 img: assets/img/cjh.jpg
-importance: 21
+importance: 20
 category: Master
 cohort: 2025.09
 ---

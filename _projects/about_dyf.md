@@ -2,7 +2,7 @@
 layout: page
 title: Yifeng Du
 img: assets/img/dyf.jpg
-importance: 11
+importance: 15
 category: Master
 cohort: 2025.09
 ---

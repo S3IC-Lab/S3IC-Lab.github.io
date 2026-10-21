@@ -25,7 +25,6 @@ cohort: 2021.09
 #### Publications
 
 ---
-
 [1] Li, Songze, Duanyi Yao, and Jin Liu. [**"Fedvs: Straggler-resilient and privacy-preserving vertical federated learning for split models."**](https://proceedings.mlr.press/v202/li23an/li23an.pdf) International Conference on Machine Learning. PMLR, 2023.
 
 [2] Duanyi, Y. A. O., Songze Li, X. U. E. Ye, and Jin Liu. [**"Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit."**](https://openreview.net/pdf?id=m52uU0dVbH) In The Twelfth International Conference on Learning Representations. 2023.

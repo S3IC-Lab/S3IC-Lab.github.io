@@ -2,7 +2,7 @@
 layout: page
 title: Jiameng Cheng
 img: assets/img/cjm.jpg
-importance: 23
+importance: 11
 category: Master
 cohort: 2025.09
 ---
@@ -21,4 +21,6 @@ cohort: 2025.09
 #### Publications
 
 ---
-1.[**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**](https://www.ndss-symposium.org/ndss-paper/odysseus-jailbreaking-commercial-multimodal-llm-integrated-systems-via-dual-steganography/) / Songze Li, Jiameng Cheng, Yiming Li, Xiaojun Jia, Dacheng Tao / Network and Distributed System Security Symposium (NDSS), 2026.
+1.[**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**](https://www.ndss-symposium.org/ndss-paper/odysseus-jailbreaking-commercial-multimodal-llm-integrated-systems-via-dual-steganography/)  
+Songze Li, Jiameng Cheng, Yiming Li, Xiaojun Jia, Dacheng Tao  
+Network and Distributed System Security Symposium (NDSS), 2026.

@@ -27,17 +27,16 @@ personal web: [https://ybdai7.github.io/](https://ybdai7.github.io/)
 #### Publications
 
 ---
-
 **indicates equal contribution**
 
-[1].[**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**](https://arxiv.org/abs/2405.20862)
-Songze Li*, Yanbo Dai*
+[1].[**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**](https://arxiv.org/abs/2405.20862)  
+Songze Li*, Yanbo Dai*  
 To be appeared in Usenix Security 2024.
 
-[2].[**Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning**](https://arxiv.org/abs/2304.12961)
-Yanbo Dai, Songze Li
+[2].[**Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning**](https://arxiv.org/abs/2304.12961)  
+Yanbo Dai, Songze Li  
 ICML’23
 
-[3].[**Deep Domain Adaptation for Predicting Intra-Abdominal Pressure with Multichannel Attention Fusion Radar Chip**](https://doi.org/10.1002/aisy.202100209)
-Hao Tang*, Yanbo Dai*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang
+[3].[**Deep Domain Adaptation for Predicting Intra-Abdominal Pressure with Multichannel Attention Fusion Radar Chip**](https://doi.org/10.1002/aisy.202100209)  
+Hao Tang*, Yanbo Dai*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang  
 Advanced Intelligent Systems.

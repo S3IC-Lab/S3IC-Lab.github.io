@@ -2,7 +2,7 @@
 layout: page
 title: Jialing Gan
 img: assets/img/gjl.jpg
-importance: 12
+importance: 16
 category: Master
 cohort: 2025.09
 ---

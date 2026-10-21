@@ -22,4 +22,6 @@ cohort: 2025.09
 #### Publications
 
 ---
-1.[**CODE: A Contradiction-Based Deliberation Extension Framework for Overthinking Attacks on Retrieval-Augmented Generation**](https://arxiv.org/abs/2601.13112) / Xiaolei Zhang, Xiaojun Jia, Liquan Chen, Songze Li / EMNLP, 2026
+1.[**CODE: A Contradiction-Based Deliberation Extension Framework for Overthinking Attacks on Retrieval-Augmented Generation**](https://arxiv.org/abs/2601.13112)  
+Xiaolei Zhang, Xiaojun Jia, Liquan Chen, Songze Li  
+EMNLP, 2026

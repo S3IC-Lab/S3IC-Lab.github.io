@@ -2,7 +2,7 @@
 layout: page
 title: Yuhong Wang
 img: assets/img/wyh.jpg
-importance: 27
+importance: 23
 category: Master
 cohort: 2025.09
 ---

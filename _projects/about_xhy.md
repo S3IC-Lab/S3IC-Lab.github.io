@@ -2,7 +2,7 @@
 layout: page
 title: Hanyi Xu
 img: assets/img/xhy.jpg
-importance: 14
+importance: 17
 category: Master
 cohort: 2025.09
 ---
