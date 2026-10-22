@@ -1,21 +1,19 @@
 ---
 layout: page
 title: Yuzhen Long
-description: Since 2022 fall
 img: assets/img/lyz.jpg
-importance: 1
-category: Undergraduate
+importance: 31
+category: Master
+cohort: 2026.09
 ---
 
 #### Research Interests
 
 ---
-
-- LLM Security
-- federated learning
+- Agent Security
 
 #### Education
 
 ---
-
-- 2022.09 - now, Southeast University, Jiangsu, China, B.S.
+- 2026.09-now, Southeast University, Nanjing, China, M.S.
+- 2022.09-2026.06,Southeast University, Nanjing, China, B.S.
