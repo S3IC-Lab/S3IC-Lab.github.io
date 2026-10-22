@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chang Xia
+img: assets/img/cx.jpg
 importance: 30
 category: Master
 cohort: 2026.09
