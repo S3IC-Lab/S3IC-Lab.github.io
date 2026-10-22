@@ -31,13 +31,20 @@ Dr. Songze Li is a professor at School of Cyber Science and Engineering, Southea
 
 ### Academic Services
 
-- Secretary - IEEE Information Theory Society Hongkong Chapter
+##### Secretary
+
+- IEEE Information Theory Society Hongkong Chapter
+
+##### Associate editor
+
+- IEEE Transactions on Information Forensics & Security
 
 ##### Guest editor
 
-- Journal of Surveillance, Security and Safety, special issue on AI Security and Privacy
+- Discover Internet of Things, collection on Embodied AI for the Internet of Things: Sensing, Edge Intelligence, and Trustworthy Autonomy
 - Entropy, special issue on Information Theory for Distributed Systems
 - Entropy, special issue on Information-Theoretic Approaches for Machine Learning and AI
+- Journal of Surveillance, Security and Safety, special issue on AI Security and Privacy
 
 ##### Area chair
 
