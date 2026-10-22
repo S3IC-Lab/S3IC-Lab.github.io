@@ -13,8 +13,8 @@ The research lab for **S**ecure, **S**calable, and Re**S**ponsible **I**ntellige
 
 Our current research areas include: <br>
 
-1. Safety, privacy, and security of large language models; <br>
-2. Secure multi-party computation for AI; <br>
-3. Blockchain scalability and privacy.
+1. Safety and security of large language models and agents; <br>
+2. Data privacy of large language models and agents; <br>
+3. Safety and security of embodied AI.
 
 We are always looking for **strongly motivated** PhD and Master students, Undergraduate students, Post-docs, Research assistants, and Visitors/interns to join our lab. Interested applicants please email your CV, transcript, and any related publications to **songzeli [at] seu [dot] edu [dot] cn**, or **songzeli8824 [at] outlook [dot] com**.
