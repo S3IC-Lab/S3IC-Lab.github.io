@@ -2,7 +2,7 @@
 layout: page
 title: Ruize Ma
 img: assets/img/mrz.jpg
-importance: 33
+importance: 35
 category: Master
 cohort: 2026.09
 ---

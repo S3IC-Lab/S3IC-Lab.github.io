@@ -2,7 +2,7 @@
 layout: page
 title: Qunyi Zou
 img: assets/img/qzy.jpg
-importance: 32
+importance: 34
 category: Master
 cohort: 2026.09
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Yanyuan Zhao
 img: assets/img/zyy.jpg
-importance: 39
+importance: 32
 category: Master
 cohort: 2026.09
 ---

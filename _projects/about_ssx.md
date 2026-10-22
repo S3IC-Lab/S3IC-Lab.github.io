@@ -2,7 +2,7 @@
 layout: page
 title: Sinan Xu
 img: assets/img/ssx.jpg
-importance: 37
+importance: 38
 category: Master
 cohort: 2026.09
 ---

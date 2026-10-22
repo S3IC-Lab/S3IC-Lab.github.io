@@ -17,3 +17,10 @@ cohort: 2026.09
 ---
 - 2026.09-now, Southeast University, Nanjing, China, M.S.
 - 2022.09-2026.06,Southeast University, Nanjing, China, B.S.
+
+#### Publications
+
+---
+1.[**FuncPoison: Poisoning Function Library to Hijack Multi-Agent Autonomous Driving Systems**](https://arxiv.org/abs/2509.24408)  
+Yuzhen Long, Songze Li  
+arXiv preprint, 2025

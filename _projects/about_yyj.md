@@ -2,7 +2,7 @@
 layout: page
 title: Yijun Yu
 img: assets/img/yyj.jpg
-importance: 36
+importance: 37
 category: Master
 cohort: 2026.09
 ---

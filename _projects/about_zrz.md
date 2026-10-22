@@ -2,7 +2,7 @@
 layout: page
 title: Zirui Zhu
 img: assets/img/zrz.jpg
-importance: 35
+importance: 36
 category: Master
 cohort: 2026.09
 ---

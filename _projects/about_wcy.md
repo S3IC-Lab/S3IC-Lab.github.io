@@ -2,7 +2,7 @@
 layout: page
 title: Chunyang Wu
 img: assets/img/wcy.jpg
-importance: 38
+importance: 39
 category: Master
 cohort: 2026.09
 ---
