@@ -9,20 +9,20 @@ display_categories: []
 horizontal: false
 ---
 
-##### Ph.D. Students
-
----
-
-- **Sizai Hou**, 2021.9-2026.
-- **Duanyi Yao**, 2021.9-2026.
-- **Yijia Chang**, 2022.9-2026.
-- **Jin Xie**, 2022.9-2026.
-
 ##### Post-doc Researchers
 
 ---
 
 - Dr. **Jinbao Zhu**, 2021.8-2023.8, now assistant professor at **Southwest Jiaotong University**.
+
+##### Ph.D. Students
+
+---
+
+- **Sizai Hou**, 2021.9-2026.6.
+- **Duanyi Yao**, 2021.9-2026.6.
+- **Yijia Chang**, 2022.9-2026.6.
+- **Jin Xie**, 2022.9-2026.6.
 
 ##### Master Students
 
