@@ -4,7 +4,7 @@ permalink: /phd/
 title: Ph.D Students
 nav: false
 nav_order: 7
-display_categories: ["PhD at SEU", "PhD at HKUST"]
+display_categories: ["PhD at SEU"]
 horizontal: false
 ---
 

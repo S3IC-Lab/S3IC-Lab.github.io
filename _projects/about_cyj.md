@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Yijia Chang
-description: Since 2022 fall
+description: Ph.D. at HKUST (GZ), 2022-2026
 img: assets/img/cyj.jpg
 importance: 3
-category: "PhD at HKUST"
+category: Alumni
 cohort: 2022.09
 ---
 

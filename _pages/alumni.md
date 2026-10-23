@@ -9,6 +9,18 @@ display_categories: []
 horizontal: false
 ---
 
+<div class="projects master-projects">
+  {% assign alumni = site.projects | where: "category", "Alumni" | sort: "importance" %}
+  {% if alumni.size > 0 %}
+  <h2 class="category">Ph.D. at HKUST (GZ)</h2>
+  <div class="row row-cols-1 row-cols-md-4">
+    {% for project in alumni %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
 ##### Post-doc Researchers
 
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Sizai Hou
-description: Since 2021 fall
+description: Ph.D. at HKUST (GZ), 2021-2026
 img: assets/img/hsz.jpg
 importance: 1
-category: "PhD at HKUST"
+category: Alumni
 cohort: 2021.09
 ---
 
