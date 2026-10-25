@@ -15,5 +15,5 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now, Southeast University,Nanjing, China, M.S.
-- 2019.09-2023.06，Suzhou University of Science and Technology，Suzhou，China，B.S.
+- 2026.09-now, Southeast University, Nanjing, China, M.S.
+- 2019.09-2023.06, Suzhou University of Science and Technology, Suzhou, China, B.S.

@@ -17,7 +17,7 @@ cohort: 2025.09
 
 ---
 - 2025.09-now, Southeast University, Nanjing, China, M.S.
-- 2021.09-2025.06,China Fuzhou University, Fuzhou, China, B.S.
+- 2021.09-2025.06, Fuzhou University, Fuzhou, China, B.S.
 
 #### Publications
 

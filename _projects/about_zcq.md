@@ -22,8 +22,8 @@ How to reach me: chenqingzhu@seu.edu.cn
 
 ---
 
-- 2024.09 - , Southeast University, Nanjing, China, Ph.D. in Cyber Security
-- 2022.09-2024.06, The Hong Kong University of Science and Technology(Guangzhou), Guangdong, China, M.phil. in Internet of Things
+- 2024.09-now, Southeast University, Nanjing, China, Ph.D. in Cyber Security
+- 2022.09-2024.06, The Hong Kong University of Science and Technology (Guangzhou), Guangdong, China, M.Phil. in Internet of Things
 - 2018.09-2022.06, Soochow University, Suzhou, China, B.Eng. in Software Engineering
 
 #### Publications

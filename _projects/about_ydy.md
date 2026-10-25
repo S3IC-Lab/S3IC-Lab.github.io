@@ -19,8 +19,8 @@ cohort: 2021.09
 
 ---
 
-- 2021.09 - Now Hong Kong University of Science and Technology, Hong Kong. PhD candidate
-- 2017.09 - 2021.06 University of Electronic Science and Technology of China, Chengdu, China. B.S.
+- 2021.09-now, Hong Kong University of Science and Technology, Hong Kong, China, Ph.D.
+- 2017.09-2021.06, University of Electronic Science and Technology of China, Chengdu, China, B.S.
 
 #### Publications
 

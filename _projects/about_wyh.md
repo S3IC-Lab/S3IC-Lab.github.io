@@ -16,4 +16,4 @@ cohort: 2025.09
 
 ---
 - 2025.09-now, Southeast University, Nanjing, China, M.S.
-- 2019.09-2023.06,Nanjing Tech University,Nanjing,China,B.S.
+- 2019.09-2023.06, Nanjing Tech University, Nanjing, China, B.S.

@@ -21,6 +21,6 @@ cohort: 2024.09
 
 ---
 
-- 2024.09 - Now, SEU,Cyberspace Security, PhD
-- 2023.08 - 2024.06, CityUHK, Computer Science, MSc
-- 2019.09 - 2023.06, SDU, Information Security, BSc
+- 2024.09-now, SEU, Cyberspace Security, Ph.D.
+- 2023.08-2024.06, CityUHK, Computer Science, M.S.
+- 2019.09-2023.06, SDU, Information Security, B.S.

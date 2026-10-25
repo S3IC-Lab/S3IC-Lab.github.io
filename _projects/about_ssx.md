@@ -15,6 +15,5 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now,Southeast University,Nanjing,China
-- Master
-- 2022.09-2026.06,Nanjing Tech University,Nanjing,China,B.S
+- 2026.09-now, Southeast University, Nanjing, China, M.S.
+- 2022.09-2026.06, Nanjing Tech University, Nanjing, China, B.S.

@@ -16,7 +16,7 @@ cohort: 2026.09
 
 ---
 - 2026.09-now, Southeast University, Nanjing, China, M.S.
-- 2022.09-2026.06,Southeast University, Nanjing, China, B.S.
+- 2022.09-2026.06, Southeast University, Nanjing, China, B.S.
 
 #### Publications
 

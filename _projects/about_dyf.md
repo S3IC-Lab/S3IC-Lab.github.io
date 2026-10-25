@@ -16,4 +16,4 @@ cohort: 2025.09
 
 ---
 - 2025.09-now, Southeast University, Nanjing, China, M.S.
-- 2021.09-2025.06, Ningbo University ,China,B.S.
+- 2021.09-2025.06, Ningbo University, China, B.S.

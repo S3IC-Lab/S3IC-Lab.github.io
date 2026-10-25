@@ -15,5 +15,5 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now,Southeast University,Nanjing,China, M.S.
-- 2021.09-2026.06 ,Southwest University, Chongqing, China, B.S.
+- 2026.09-now, Southeast University, Nanjing, China, M.S.
+- 2021.09-2026.06, Southwest University, Chongqing, China, B.S.

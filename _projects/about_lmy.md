@@ -16,6 +16,6 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now，Southeast University，Nanjing，China，PhD
-- 2023.09-2026.06 Minzu University of China，Beijing，China，Master
-- 2019.09-2023.06，Southwest Minzu Iniversity，Chengdu, China，B.S.
+- 2026.09-now, Southeast University, Nanjing, China, Ph.D.
+- 2023.09-2026.06, Minzu University of China, Beijing, China, M.S.
+- 2019.09-2023.06, Southwest Minzu University, Chengdu, China, B.S.

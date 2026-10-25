@@ -15,5 +15,5 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now,Southeast University,Nanjing,China, M.S.
-- 2022.09-2026.06 ,Hangzhou Dianzi University,Hangzhou,China,B.S.
+- 2026.09-now, Southeast University, Nanjing, China, M.S.
+- 2022.09-2026.06, Hangzhou Dianzi University, Hangzhou, China, B.S.

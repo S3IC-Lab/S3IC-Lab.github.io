@@ -16,6 +16,6 @@ cohort: 2026.09
 #### Education
 
 ---
-- 2026.09-now，Southeast University，Nanjing，China，PhD
-- 2023.09-2026.06，Shanghai University of Electric Power，Shanghai，China，Master
-- 2019.09-2023.06，Shanghai University of Electric Power，Shanghai，China，B.S.
+- 2026.09-now, Southeast University, Nanjing, China, Ph.D.
+- 2023.09-2026.06, Shanghai University of Electric Power, Shanghai, China, M.S.
+- 2019.09-2023.06, Shanghai University of Electric Power, Shanghai, China, B.S.
