@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Weicong Chen
-description: Since 2026.09
 img: assets/img/cwc.jpg
 importance: 48
 category: Master
